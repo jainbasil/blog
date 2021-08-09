@@ -2,7 +2,7 @@
 layout: post
 title:  "Create Song Books in XeLaTeX"
 date:   2019-06-03 00:00:00 +0530
-tags: computer-science
+tags: coding
 ---
 Recently, I decided to digitise my songbook (lyrics with chords annotated) using the TeX typesetting system. TeX provides amazing packages for typesetting songbooks. Since my collection had mostly Malayalam songs, XeLaTeX was my choice of TeX engine which has better support for non-Roman scripts – like Malayalam, Tamil etc.
 
@@ -36,4 +36,4 @@ There are several TeX packages available for typesetting song lyrics and chord b
 
 {% endhighlight %}
 
-Running the command xelatex songbook.tex produces a PDF that uses Rachana font released by Swathanthra Malayalam Computing.
+Running the command `xelatex songbook.tex` produces a PDF that uses Rachana font released by Swathanthra Malayalam Computing.

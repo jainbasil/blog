@@ -2,7 +2,7 @@
 layout: post
 title: "Bringing back machines to life"
 date: 2020-05-28 00:00:00 +0530
-tags: computer-science technology
+tags: computer-science
 ---
 
 The word "machine" has its origin in the Greek word "makhana" meaning "device". Initially used to refer mechanical structures built to perform an intended action, the term "machine" in modern times encompass a lot more – automobiles, computers, farm machinery, factory automation systems, robots – the list goes on. At times, reading and learning about those old machines which paved the way for the new and technologically advanced ones is fascinating.

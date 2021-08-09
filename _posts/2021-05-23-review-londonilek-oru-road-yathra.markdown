@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "വായന: ലണ്ടനിലേക്ക് ഒരു റോഡ് യാത്ര"
+title: "ലണ്ടനിലേക്ക് ഒരു റോഡ് യാത്ര"
 date: 2021-05-23 00:00:00 +0530
-tags: book-review
+tags: books
 ---
 
 To all non-malayalam readers, this is a short review of award-winning book “Londonilekku oru Road Yathra“, written by Baiju N Nair. In this travelogue, the author shares the details of his epic journey to London from Kochi (Kerala, India) by Road in 72 days, visiting 27 countries.

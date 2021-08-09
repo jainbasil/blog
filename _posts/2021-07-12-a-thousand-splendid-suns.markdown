@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "A Thousand Splendid Suns"
-date: 2021-08-08 10:15:54 +0530
-tags: book-review
+date: 2021-07-12 00:00:00 +0530
+tags: books
 ---
 
 As a reader, the question “What to pick next?” always confused me. However, I was determined to take up fiction (I am generally averse to fiction) this time and, an obvious choice was A Thousand Splendid Suns by Khaled Hosseini. I mentioned it as an obvious choice because of two reasons. One, this has been a long-pending book on my reading list and, second I loved reading The Kite Runner a few years ago.

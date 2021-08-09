@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Thousand Splendid Suns"
-date: 2021-08-08 10:15:54 +0530
+date: 2021-07-12 00:00:00 +0530
 tags: books
 ---
 

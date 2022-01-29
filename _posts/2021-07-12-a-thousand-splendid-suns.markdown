@@ -14,17 +14,3 @@ The story in A Thousand Splendid Suns is set against the tumultuous history of A
 Pages 270 and 271 sums up their struggle for life – a huge list of forbidden things/activities – singing, dancing, kite flying, playing cards, playing chess, writing books, watching films, painting pictures, attending schools … the list goes on. Women were not allowed to show their faces or attend schools. The last statement told, “Listen. Listen well. Obey”.
 
 The recent news from Afghanistan disturbs me, is it heading towards chaos as described in the story? I sincerely hope that it doesn’t. United Nations and the world should strive to help Afghanistan come out of war and embrace peace.
-
-> Each of you, a bordered country,  
-> Delicate and strangely made proud,  
-> Yet thrusting perpetually under siege.  
-> Your armed struggles for profit  
-> Have left collars of waste upon  
-> My shore, currents of debris upon my breast.  
-> Yet today I call you to my riverside,  
-> If you will study war no more. Come,  
-> Clad in peace, and I will sing the songs  
-> The Creator gave to me when I and the  
-> Tree and the rock were one.
-
--- On The Pulse of Morning, Maya Angelou

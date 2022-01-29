@@ -10,7 +10,7 @@ author:
     Feel free to contact me over <a href="mailto:jainbasil+blog@gmail.com">email</a> and <a href="https://www.linkedin.com/in/jainbasil">LinkedIn</a>.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.jainbasil.in" 
 
 theme: jekyll-calculus-theme
 permalink: pretty

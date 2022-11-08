@@ -1,13 +1,16 @@
-title: Jain Basil's Blog
+title: jainbasil | home
 description: Home
 author:
   name: Jain Basil Aliyas
   email: jainbasil@gmail.com
   bio: >-
-    Hi! I am a backend developer passionate about building highly scalable and data-intensive cloud applications, open-source software etc. 
-    I occasionally write here about computers and programming, book reviews, travelogues and photographs.
-    <br />
-    Feel free to contact me over <a href="mailto:jainbasil+blog@gmail.com">email</a> and <a href="https://www.linkedin.com/in/jainbasil">LinkedIn</a>.
+    Hi! I am <i>Jain Basil Aliyas</i>. I work at <a href="https://zoko.io">Zoko (YC 2021)</a>.
+    <br /><br />
+    I am a backend developer passionate about computing, open-source softwares etc. and occasionally write here 
+    about computers and programming, book reviews, travelogues and photographs.
+
+    <br /> <br />
+    Connect with me over <a href="mailto:jainbasil+blog@gmail.com">email</a> and <a href="https://www.linkedin.com/in/jainbasil">LinkedIn</a>.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.jainbasil.in" 

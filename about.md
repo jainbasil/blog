@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: 👋 Hello! 
 permalink: /about/
 ---
 
-This is the whiteglass theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am **Jain Basil Aliyas**, _Director of Engineering_ at [Zoko, (YC, 2021)](https://zoko.io). 
 
-You can find the source code for whiteglass at GitHub:
-[yous](https://github.com/yous) /
-[whiteglass](https://github.com/yous/whiteglass)
+I lead the engineering team at Zoko in developing the next-generation communications platform that assists businesses in expanding their operations using WhatsApp. Through this blog, I aim to share my knowledge, experiences, and insights accumulated from years of hands-on experience in developing highly scalable cloud applications, open-source software, and more.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Feel free to reach out to me over [email](mailto:jainbasil+blog@gmail.com) and [LinkedIn](https://www.linkedin.com/in/jainbasil) for guidance on building robust, high-performant systems that can withstand the tests of scale and time.
